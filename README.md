@@ -7,6 +7,6 @@
         * Clone the repository
         * Import the project in your IDE
         * Run the Boot Object
-        * navigate to ```localhost:8080/passgen/{length}``` where {length} 
+        * navigate to ``localhost:8080/passgen/{length}`` where {length} 
           is the desired password length, defaults to 8.   
     3. Testing
